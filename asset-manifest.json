@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shoppingmall/static/css/main.eb4f8ee6.css",
-    "main.js": "/shoppingmall/static/js/main.412612db.js",
+    "main.js": "/shoppingmall/static/js/main.87f11e4d.js",
     "static/js/453.b16768da.chunk.js": "/shoppingmall/static/js/453.b16768da.chunk.js",
     "static/media/Discount.jpg": "/shoppingmall/static/media/Discount.87095a304e4e39ad1d35.jpg",
     "static/media/Passion.jpg": "/shoppingmall/static/media/Passion.9bfbf114fb3381b4048c.jpg",
@@ -17,11 +17,11 @@
     "static/media/Averylogo.jpg": "/shoppingmall/static/media/Averylogo.4c6379ce34546491d575.jpg",
     "index.html": "/shoppingmall/index.html",
     "main.eb4f8ee6.css.map": "/shoppingmall/static/css/main.eb4f8ee6.css.map",
-    "main.412612db.js.map": "/shoppingmall/static/js/main.412612db.js.map",
+    "main.87f11e4d.js.map": "/shoppingmall/static/js/main.87f11e4d.js.map",
     "453.b16768da.chunk.js.map": "/shoppingmall/static/js/453.b16768da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb4f8ee6.css",
-    "static/js/main.412612db.js"
+    "static/js/main.87f11e4d.js"
   ]
 }
