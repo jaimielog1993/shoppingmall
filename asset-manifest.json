@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/shoppingmall/static/css/main.eb4f8ee6.css",
-    "main.js": "/shoppingmall/static/js/main.c317f213.js",
+    "main.css": "/shoppingmall/static/css/main.2b36e23e.css",
+    "main.js": "/shoppingmall/static/js/main.2508e86f.js",
     "static/js/453.b16768da.chunk.js": "/shoppingmall/static/js/453.b16768da.chunk.js",
     "static/media/Discount.jpg": "/shoppingmall/static/media/Discount.87095a304e4e39ad1d35.jpg",
     "static/media/clothing_7.jpg": "/shoppingmall/static/media/clothing_7.1dc674b6563b5a611ad5.jpg",
-    "static/media/clothing_6.jpg": "/shoppingmall/static/media/clothing_6.79a4eda52d509025d44e.jpg",
     "static/media/clothing_4.jpg": "/shoppingmall/static/media/clothing_4.8ae2b3e27de8db814833.jpg",
-    "static/media/clothing_8.jpg": "/shoppingmall/static/media/clothing_8.def485abedbe9d2f6eaa.jpg",
+    "static/media/clothing_6.jpg": "/shoppingmall/static/media/clothing_6.def485abedbe9d2f6eaa.jpg",
     "static/media/clothing_5.jpg": "/shoppingmall/static/media/clothing_5.29ca2840c7c32b4bb513.jpg",
     "static/media/Passion.jpg": "/shoppingmall/static/media/Passion.9bfbf114fb3381b4048c.jpg",
     "static/media/ClothesImage.jpg": "/shoppingmall/static/media/ClothesImage.0891288de7d2256ca490.jpg",
@@ -24,12 +23,12 @@
     "static/media/SpecialCoupon.jpg": "/shoppingmall/static/media/SpecialCoupon.be257446314c51e8e15a.jpg",
     "static/media/Averylogo.jpg": "/shoppingmall/static/media/Averylogo.4c6379ce34546491d575.jpg",
     "index.html": "/shoppingmall/index.html",
-    "main.eb4f8ee6.css.map": "/shoppingmall/static/css/main.eb4f8ee6.css.map",
-    "main.c317f213.js.map": "/shoppingmall/static/js/main.c317f213.js.map",
+    "main.2b36e23e.css.map": "/shoppingmall/static/css/main.2b36e23e.css.map",
+    "main.2508e86f.js.map": "/shoppingmall/static/js/main.2508e86f.js.map",
     "453.b16768da.chunk.js.map": "/shoppingmall/static/js/453.b16768da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb4f8ee6.css",
-    "static/js/main.c317f213.js"
+    "static/css/main.2b36e23e.css",
+    "static/js/main.2508e86f.js"
   ]
 }
